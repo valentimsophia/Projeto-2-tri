@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(235, 172, 203);
+}
+
+header{
+    background-color: rgb(236, 236, 236);
+}
+header div img{
+    largura: 300px;
+}
